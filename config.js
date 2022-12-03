@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
+global.Owner = ['2250585202312']
+global.OwnerNumber = ['2250585202312']
+global.ownertag = ['2250585202312']
 global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.packname = "𝗦𝗢𝗠𝗕𝗥𝗘 ♠ 𝗗𝗔𝗘𝗠𝗢𝗡"
+global.author = ""
+global.OwnerName = "SOMBRE DAEMON"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['.'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "West Bengal, India"
